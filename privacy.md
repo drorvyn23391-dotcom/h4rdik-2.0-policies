@@ -52,7 +52,7 @@ Information is retained only as long as necessary for the bot's functionality an
 
 For requests concerning the deletion of stored information, contact our support team.
 
-Support: [YOUR DISCORD SUPPORT SERVER LINK]
+Support: [https://discord.gg/jPy6dhWA4M]
 
 7. Children's Privacy
 
