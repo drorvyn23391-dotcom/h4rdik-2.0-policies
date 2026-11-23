@@ -71,4 +71,4 @@ We may update this Privacy Policy when our services or data practices change. Up
 For privacy-related questions or data deletion requests, contact:
 
 Bot: H4rdik 2.0
-Support: [YOUR DISCORD SUPPORT SERVER LINK]
+Support: [https://discord.gg/jPy6dhWA4M]
